@@ -2,6 +2,7 @@ package ru.zubakha;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello, qaguru!!!");
+        String message = "Hello, qaguru!!!";
+        System.out.println(message);
     }
 }
